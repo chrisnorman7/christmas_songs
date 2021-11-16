@@ -15,7 +15,7 @@ G  Bm   Em     C   D   G
 In a... manger for His bed:
 C    G        Am     G
 Mary was that mother mild,
-C     G             D    G
+C     G           C  D   G
 Jesus Christ, her little Child.
 To the place where He is gone.
 ```
