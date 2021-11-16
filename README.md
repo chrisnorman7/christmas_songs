@@ -19,3 +19,22 @@ C     G           C  D   G
 Jesus Christ, her little Child.
 To the place where He is gone.
 ```
+
+## Ding Dong Merrily On High
+
+### Love to Sing
+
+```lyrics
+A         D          E
+Ding dong merrily on high,
+   D          E         A
+In heav'n the bells are ringing:
+           D          E
+Ding dong! verily the sky
+   D          E     A
+Is riv'n with angel singing
+A F#m Bm E F#m A E C#7 F#m D E C#m
+Gloria
+  D     E    A
+Hosanna in excelsis!
+```
