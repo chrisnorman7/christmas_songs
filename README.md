@@ -41,7 +41,7 @@ Ding dong! verily the sky
    D          E     A
 Is riv'n with angel singing
 
-A F#m Bm E F#m A E C#7 F#m D E C#m
+A F#m Bm E F#m A E C#7 F#m D C#m E
 Gloria
 
   D     E    A
