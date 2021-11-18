@@ -38,3 +38,53 @@ Gloria
   D     E    A
 Hosanna in excelsis!
 ```
+
+## Hark the Herald Angel Sing
+
+### Boney M
+
+```lyrics
+F                Dm      C
+Hark! the herald angels sing
+Am    Bb     C       F
+Glory to the newborn King
+F                   Dm      G
+Peace on earth, and mercy mild
+C                 G  C
+God and sinners reconciled
+Am      Bb     F        C
+Joyful, all ye nations, rise
+Am       Bb      F      C
+Join the triumph of the skies
+Bb           Am  Gm   D7 Gm
+With th' angelic host proclaim
+C         F       Bb  C F
+Christ is born in Bethlehem
+Bb           Am  Gm   D7   Gm
+Hark, the herald an...gels sing
+Bb    G      Bb C    F
+Glory to the newborn King
+```
+
+## O Come, All Ye Faithful
+
+### Pentatonix
+
+```lyrics
+G              Am   D
+O come, all ye faithful,
+G  D   G   C  G D
+Joyful and triumphant
+  Em   D     Bm   F#m   D  A7   D
+O come ye, o come ye to B..ethlehem
+  Bm   Am  G Am   G    D        Em      E
+O come and behold Him, born the King of Angels
+G
+O come, let us adore Him
+G
+O come, let us adore Him
+G C     G   D  Em  Bm   C
+O come, let us a...dore Him
+G      D   G
+Christ the Lord
+```
