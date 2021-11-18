@@ -29,13 +29,13 @@ Jesus Christ, her little Child.
 ### Love to Sing
 
 ```lyrics
-A         D          E
+A         Bm         E
 Ding dong merrily on high,
 
    D          E         A
 In heav'n the bells are ringing:
 
-           D          E
+A          Bm         E
 Ding dong! verily the sky
 
    D          E     A
