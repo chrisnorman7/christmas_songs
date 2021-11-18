@@ -88,3 +88,22 @@ O come, let us a...dore Him
 G      D   G
 Christ the Lord
 ```
+
+## Silent Night
+
+### [URL](https://www.41051.com/xmaslyrics/silent_night.html)
+
+```lyrics
+A
+Silent night, holy night!
+E            A
+All is calm, all is bright.
+D                 A
+Round yon Virgin, Mother and Child.
+D              A
+Holy infant so tender and mild,
+E                 F#m C#m
+Sleep in heavenly p...eace,
+A        E        A
+Sleep in heavenly peace
+```
