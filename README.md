@@ -98,7 +98,7 @@ Joyful and triumphant
   Em   D     Bm   F#m   D  A7   D
 O come ye, o come ye to B..ethlehem
 
-  Bm   Am  G Am   G    D        Em      E
+  Bm   Am  G Am   G    D        Em      D
 O come and behold Him, born the King of Angels
 
 G
