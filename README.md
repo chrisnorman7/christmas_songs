@@ -80,9 +80,8 @@ Christ is born in Bethlehem
 Bb           Am  Gm   D7   Gm
 Hark, the herald an...gels sing
 
-Bb    G      Bb C    F
-Glory to the newborn King
-
+C     F      Bb  C    F
+Glory to the new-born King
 ```
 
 ## O Come, All Ye Faithful
