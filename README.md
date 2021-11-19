@@ -145,7 +145,7 @@ Sleep in heavenly peace
 | F | C |
 | While shepherds | watched |
 | Dm | Bb | F |
-| Their | flocks by night |
+| Their | flocks by | night |
 | C | Dm | C | G7 | C |
 | All | seated | on | the | ground |
 | F | Bb | Am | Gm | F | C | Dm | A7 |
