@@ -145,12 +145,67 @@ Sleep in heavenly peace
 ```lyrics
 F               C
 While shepherds watched
+
 Dm    Bb        F
 Their flocks by night
+
 C   Dm     C  G7  C
 All seated on the ground
+
 F   Bb   Am  Gm F   C    Dm   A7
 The an...gel of the Lord came down
+
 F   Bb    C      F
 And glory shone around |
+```
+
+## Jingle Bells
+
+### Love to Sing
+
+```lyrics
+G
+Jingle bells, jingle bells,
+
+Jingle all the way.
+
+C
+Oh what fun it is to ride
+
+     A7             D
+In a one-horse open sleigh, hey!
+
+G
+Jingle bells, jingle bells,
+
+Jingle all the way.
+
+C              D
+Oh what fun it is to ride,
+
+                    G
+In a one-horse open sleigh.
+
+G
+Dashing through the snow
+
+                    C
+In a one-horse open sleigh,
+
+                   D
+O'er the fields we go,
+
+                 G
+Laughing all the way.
+
+Bells on bob-tails ring,
+
+               C
+Making spirits bright.
+
+                  D
+What fun it is to ride and sing
+
+                   G
+A sleighing song tonight, oh!
 ```
