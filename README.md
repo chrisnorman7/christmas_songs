@@ -137,3 +137,18 @@ Sleep in heavenly p...eace,
 A        E        A
 Sleep in heavenly peace
 ```
+
+## While Shepherds Watched
+
+### Nahum Tate
+
+| F | C |
+| While shepherds | watched |
+| Dm | Bb | F |
+| Their | flocks by night |
+| C | Dm | C | G7 | C |
+| All | seated | on | the | ground |
+| F | Bb | Am | Gm | F | C | Dm | A7 |
+| The | an | gel | of | the | Lord | came | down |
+| F | Bb | C | F |
+| And | glory | shone a| round |
