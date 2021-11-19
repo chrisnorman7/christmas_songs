@@ -142,6 +142,8 @@ Sleep in heavenly peace
 
 ### Nahum Tate
 
+| | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | F | C |
 | While shepherds | watched |
 | Dm | Bb | F |
