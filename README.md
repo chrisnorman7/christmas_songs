@@ -1,8 +1,10 @@
 # Christmas Songs
 
-## Once In Royal David's City
+## Christmas Carols
 
-### Choir of King’s College, Cambridge, Stephen Cleobury
+### Once In Royal David's City
+
+#### Choir of King’s College, Cambridge, Stephen Cleobury
 
 ```lyrics
 G    D  G     A7     D  G
@@ -24,9 +26,9 @@ C     G           C  D   G
 Jesus Christ, her little Child.
 ```
 
-## Ding Dong Merrily On High
+### Ding Dong Merrily On High
 
-### Love to Sing
+#### Love to Sing
 
 ```lyrics
 A         Bm         E
@@ -48,9 +50,9 @@ Gloria
 Hosanna in excelsis!
 ```
 
-## Hark the Herald Angel Sing
+### Hark the Herald Angel Sing
 
-### Boney M
+#### Boney M
 
 ```lyrics
 F                Dm      C
@@ -84,9 +86,9 @@ C     F      Bb  C    F
 Glory to the new-born King
 ```
 
-## O Come, All Ye Faithful
+### O Come, All Ye Faithful
 
-### Pentatonix
+#### Pentatonix
 
 ```lyrics
 G              Am   D
@@ -114,9 +116,9 @@ G      D   G
 Christ the Lord
 ```
 
-## Silent Night
+### Silent Night
 
-### [URL](https://www.41051.com/xmaslyrics/silent_night.html)
+#### [URL](https://www.41051.com/xmaslyrics/silent_night.html)
 
 ```lyrics
 A
@@ -138,9 +140,9 @@ A        E        A
 Sleep in heavenly peace
 ```
 
-## While Shepherds Watched
+### While Shepherds Watched
 
-### Nahum Tate
+#### Nahum Tate
 
 ```lyrics
 F               C
@@ -159,9 +161,9 @@ F   Bb    C      F
 And glory shone around |
 ```
 
-## Jingle Bells
+### Jingle Bells
 
-### Love to Sing
+#### Love to Sing
 
 ```lyrics
 G
@@ -208,4 +210,36 @@ What fun it is to ride and sing
 
                    G
 A sleighing song tonight, oh!
+```
+
+## Secular Songs
+
+### Calypso Carol
+
+#### Michael Perry
+
+```lyrics
+C                    F      Dm
+See him a lying on a bed of straw;
+
+  G                       C
+a draughty stable with an open door,
+
+C                 F        Dm
+Mary cradling the babe she bore;
+
+    G                      C
+The prince of glory is his name.
+
+F                   C
+Oh, now carry me to Bethlehem
+
+   G7            C
+to see the Lord appear to men;
+
+C       A7              F      Dm
+Just as poor as was the stable then,
+
+    G                       C
+The prince of glory when he came.
 ```
