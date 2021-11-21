@@ -243,3 +243,33 @@ Just as poor as was the stable then,
     G                       C
 The prince of glory when he came.
 ```
+
+### Mary’s Boy Child
+
+#### Boney M
+
+```lyrics
+D                G
+Long time ago in Bethlehem
+
+       A          D
+So the Holy Bible say
+
+                  G     Em
+Mary's boy child, Jesus Christ
+
+    D       A         D
+Was born on Christmas Day.
+
+Bm       C        A      D
+Hark now hear the angels sing
+
+  Bm       Em     A7
+A king was born today
+
+    D                 G   Em
+And man will live for evermore
+
+  D        A7        D
+Because of Christmas Day.
+```
